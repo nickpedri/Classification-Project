@@ -65,7 +65,7 @@
 
 5. Modeling. I will begin creating models that can predict my target variable. For this project I will be using classification models. This step may involve a little more data preparation doing things such as creating dummies and minmaxscaling data so that models can properly utilize the data.
 
-6. Deploy/preset model. Once modeling is done, it is time to present my model and findings to the my audience. This includes a brief summary of all my findings and my models and possible actions that can be taken to, in this case, stop customers from churning.
+6. Deploy/present model. Once modeling is done, it is time to present my model and findings to the my audience. This includes a brief summary of all my findings and my models and possible actions that can be taken to, in this case, stop customers from churning.
 
 
 
@@ -83,8 +83,10 @@
 
 ## Key Findings:
 
-* 
+* The leading factor contributing to churn is the contract type. Customers who are on month to month contracts churn far more often.
 
-* 
+* Tenure also has an impact on churn. The longer the tenure, the less likely someone is to churn.
 
-* 
+* Monthly charges has a positive correlation with churn. The higher the monthly charges the higher the churn rate.
+
+* Fiber optic has a disproportionately high churn rate. A customer with DSL internet or no internet is far more likely to not churn. 
